@@ -51,6 +51,63 @@ Big Basket is one of the largest online grocery delivery service in India. Big B
 
 ![Landing Image 1](./Website%20Sneak%20Peeks/landing%20page%201.png?raw=true)
 
+- **Landing Page Image 2**
+
+![Landing Image 2](./Website%20Sneak%20Peeks/landing%20category.png?raw=true)
+
+- **Landing Page Mobile Devices**
+
+![Landing Image Mobile](./Website%20Sneak%20Peeks/mobile%20landing.jpg?raw=true)
+
+- **Login Page**
+
+![Login Page](./Website%20Sneak%20Peeks/Login.png?raw=true)
+
+- **Login OTP Verification**
+
+![Login OTP Verification](./Website%20Sneak%20Peeks/login%20OTP.png?raw=true)
+
+- **Sign-Up Page**
+
+![Sign Up Page](./Website%20Sneak%20Peeks/sign-up%20page.png?raw=true)
+
+- **Foodgrains Category Page**
+
+![Foodgrains Category Page](./Website%20Sneak%20Peeks/foodgrains%20page%201.png)
+
+- **Eggs, Meats Fish Category (Mobile)**
+
+![Eggs, Meats & Fish (Mobile)](./Website%20Sneak%20Peeks/mobile%20category.jpg)
+
+- **Best Selling Items**
+
+![Best Selling Items](./Website%20Sneak%20Peeks/best%20selling.png?raw=true)
+
+- **User's Product Basket (Popup)**
+
+![User's Product Basket (Popup)](./Website%20Sneak%20Peeks/Small%20basket%20page.png?raw=true)
+
+- **Checkout Page**
+
+![Checkout Page](./Website%20Sneak%20Peeks/Checkout%20page.png?raw=true)
+
+- **Payment Page Part 11**
+
+![Payment Page Part 1](./Website%20Sneak%20Peeks/payment%20page%201.png?raw=true)
+
+- **Payment Page Part 2**
+
+![Payment Page Part 2](./Website%20Sneak%20Peeks/payment%20page%202.png?raw=true)
+
+- **Payment OTP Page**
+
+![Payment OTP Page](./Website%20Sneak%20Peeks/payment%20otp.png?raw=true)
+
+- **Order Confirmation Page**
+
+![Order Confirmation Page](./Website%20Sneak%20Peeks/order%20confirmation.png?raw=true)
+
+
 
 
 

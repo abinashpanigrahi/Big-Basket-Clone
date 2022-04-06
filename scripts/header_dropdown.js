@@ -308,7 +308,10 @@ if(basket != undefined){
         let bigbasketCart = JSON.parse(localStorage.getItem("bigBasketCart")) || [];
         console.log(bigbasketCart.length);
         if(bigbasketCart.length > 0)
+        {
             basket.style.display = "block";
+        }
+            
     })
     
     basketDiv.addEventListener("mouseleave", () => {
